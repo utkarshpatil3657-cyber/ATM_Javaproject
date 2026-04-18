@@ -1,5 +1,11 @@
-# ATM_Javaproject
-This project build basics on fundamental concepts 
-<br>
-UtkarshPatil
-<h1> Java program</h1>
+# ATM Simulation (Java)
+
+## Features
+- PIN Login
+- Balance Check
+- Deposit
+- Withdraw
+
+## How to Run
+javac src/*.java
+java -cp src Main
